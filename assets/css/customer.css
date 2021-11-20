@@ -1,0 +1,42 @@
+body{
+    font-family: 'Merriweather', serif;
+    background-color: #D8E9A8;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #f2e9e4!important;
+}
+
+.navbar-brand{
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    color: #7ea8db!important;
+}
+
+.nav-link{
+    color: #161E54!important;
+    font-family: 'Merriweather', serif;
+}
+
+.nav-link:hover{
+    background-color: #77D970;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: #000000!important;
+    color: #CDF2CA!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: #000000!important;
+}
